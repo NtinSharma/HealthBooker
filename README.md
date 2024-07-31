@@ -1,6 +1,7 @@
 # Screeenshot
 # Home Page
-<img width="203" alt="health" src="https://github.com/user-attachments/assets/02f5fd9c-fe60-4d79-8d7d-95ef307a74f5">
+<img width="203" alt="health" src="https://github.com/user-attachments/assets/f577439d-757a-418f-9062-ee9d75efc874">
+
 # Sign Up page
 ![t2](https://github.com/NtinSharma/HealthBooker/assets/114104434/ba81272d-7cc0-4c3b-b902-af3cce796763)
 # Sign in page
